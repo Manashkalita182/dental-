@@ -159,7 +159,7 @@ function HomeComponent() {
               
               <div className="relative overflow-hidden rounded-3xl shadow-card border border-white/40 aspect-[4/3] sm:aspect-[4/3]">
                 <img 
-                  src="/src/assets/hero-dentist.jpg" 
+                  src="/assets/hero-dentist.jpg" 
                   alt="Modern Dental Clinic Room" 
                   className="h-full w-full object-cover transition-transform duration-700 hover:scale-105"
                 />
@@ -284,7 +284,7 @@ function HomeComponent() {
             <div className="relative mx-auto max-w-md lg:max-w-none">
               <div className="relative overflow-hidden rounded-3xl shadow-card aspect-[4/3] sm:aspect-[4/3] border border-border/40">
                 <img 
-                  src="/src/assets/smile.jpg" 
+                  src="/assets/smile.jpg" 
                   alt="Doctor smiling in office" 
                   className="h-full w-full object-cover transition-transform duration-700 hover:scale-105"
                 />
